@@ -1,24 +1,9 @@
-# README
+# Beauty Rais App
+*This is a project for the SheNomads Mentorship Program.*
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### How to use the app
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+You will be prompted to choose either skincare, nail art, or makeup.
+Choose Add to Cart or Cancel.
+If you choose Add to Cart, you will see your choice and the price. You can choose Confirm or Cancel.
+If you choose Confirm, you will receive confirmation of your purchase.
