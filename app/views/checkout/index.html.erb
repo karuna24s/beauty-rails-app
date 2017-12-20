@@ -1,4 +1,7 @@
 <h1>Checkout</h1>
 
+<div>Item: <%= @name %></div>
+<div>Price: $<%= @price %> </div>
+
 <div><%= link_to 'Add To Cart', receipt_index_path(:name => @name, :price => @price) %></div>
 <div><%= link_to 'Cancel', item_index_path %></div>
